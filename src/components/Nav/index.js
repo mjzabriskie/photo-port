@@ -20,7 +20,7 @@ function categorySelected(name) {
 
 const Nav = () => {
   return (
-    <header>
+    <header className="flex-row px-1">
       <h2>
         <a href="/">
           <span role="img" aria-label="camera">
